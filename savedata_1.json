@@ -1,0 +1,218 @@
+{
+      "box1": {
+            "top_left": [
+                  303,
+                  670
+            ],
+            "top_right": [
+                  308,
+                  670
+            ],
+            "bottom_left": [
+                  303,
+                  663
+            ],
+            "bottom_right": [
+                  308,
+                  663
+            ]
+      },
+      "box2": {
+            "top_left": [
+                  490,
+                  241
+            ],
+            "top_right": [
+                  548,
+                  241
+            ],
+            "bottom_left": [
+                  490,
+                  228
+            ],
+            "bottom_right": [
+                  548,
+                  228
+            ]
+      },
+      "box3": {
+            "top_left": [
+                  490,
+                  172
+            ],
+            "top_right": [
+                  527,
+                  172
+            ],
+            "bottom_left": [
+                  490,
+                  160
+            ],
+            "bottom_right": [
+                  527,
+                  160
+            ]
+      },
+      "box4": {
+            "top_left": [
+                  123,
+                  135
+            ],
+            "top_right": [
+                  175,
+                  135
+            ],
+            "bottom_left": [
+                  123,
+                  122
+            ],
+            "bottom_right": [
+                  175,
+                  122
+            ]
+      },
+      "box5": {
+            "top_left": [
+                  149,
+                  172
+            ],
+            "top_right": [
+                  426,
+                  172
+            ],
+            "bottom_left": [
+                  149,
+                  145
+            ],
+            "bottom_right": [
+                  426,
+                  145
+            ]
+      },
+      "box6": {
+            "top_left": [
+                  122,
+                  197
+            ],
+            "top_right": [
+                  251,
+                  197
+            ],
+            "bottom_left": [
+                  122,
+                  183
+            ],
+            "bottom_right": [
+                  251,
+                  183
+            ]
+      },
+      "box7": {
+            "top_left": [
+                  149,
+                  239
+            ],
+            "top_right": [
+                  332,
+                  239
+            ],
+            "bottom_left": [
+                  149,
+                  209
+            ],
+            "bottom_right": [
+                  332,
+                  209
+            ]
+      },
+      "box8": {
+            "top_left": [
+                  123,
+                  266
+            ],
+            "top_right": [
+                  175,
+                  266
+            ],
+            "bottom_left": [
+                  123,
+                  253
+            ],
+            "bottom_right": [
+                  175,
+                  253
+            ]
+      },
+      "box9": {
+            "top_left": [
+                  149,
+                  309
+            ],
+            "top_right": [
+                  439,
+                  309
+            ],
+            "bottom_left": [
+                  149,
+                  278
+            ],
+            "bottom_right": [
+                  439,
+                  278
+            ]
+      },
+      "box10": {
+            "top_left": [
+                  490,
+                  309
+            ],
+            "top_right": [
+                  530,
+                  309
+            ],
+            "bottom_left": [
+                  490,
+                  296
+            ],
+            "bottom_right": [
+                  530,
+                  296
+            ]
+      },
+      "box11": {
+            "top_left": [
+                  122,
+                  621
+            ],
+            "top_right": [
+                  313,
+                  621
+            ],
+            "bottom_left": [
+                  122,
+                  567
+            ],
+            "bottom_right": [
+                  313,
+                  567
+            ]
+      },
+      "box12": {
+            "top_left": [
+                  131,
+                  644
+            ],
+            "top_right": [
+                  256,
+                  644
+            ],
+            "bottom_left": [
+                  131,
+                  633
+            ],
+            "bottom_right": [
+                  256,
+                  633
+            ]
+      }
+}

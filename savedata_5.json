@@ -1,0 +1,308 @@
+{
+      "box1": {
+            "top_left": [
+                  490,
+                  590
+            ],
+            "top_right": [
+                  548,
+                  590
+            ],
+            "bottom_left": [
+                  490,
+                  577
+            ],
+            "bottom_right": [
+                  548,
+                  577
+            ]
+      },
+      "box2": {
+            "top_left": [
+                  490,
+                  302
+            ],
+            "top_right": [
+                  527,
+                  302
+            ],
+            "bottom_left": [
+                  490,
+                  290
+            ],
+            "bottom_right": [
+                  527,
+                  290
+            ]
+      },
+      "box3": {
+            "top_left": [
+                  490,
+                  201
+            ],
+            "top_right": [
+                  527,
+                  201
+            ],
+            "bottom_left": [
+                  490,
+                  190
+            ],
+            "bottom_right": [
+                  527,
+                  190
+            ]
+      },
+      "box4": {
+            "top_left": [
+                  191,
+                  153
+            ],
+            "top_right": [
+                  421,
+                  153
+            ],
+            "bottom_left": [
+                  191,
+                  122
+            ],
+            "bottom_right": [
+                  421,
+                  122
+            ]
+      },
+      "box5": {
+            "top_left": [
+                  122,
+                  177
+            ],
+            "top_right": [
+                  239,
+                  177
+            ],
+            "bottom_left": [
+                  122,
+                  164
+            ],
+            "bottom_right": [
+                  239,
+                  164
+            ]
+      },
+      "box6": {
+            "top_left": [
+                  149,
+                  202
+            ],
+            "top_right": [
+                  446,
+                  202
+            ],
+            "bottom_left": [
+                  149,
+                  186
+            ],
+            "bottom_right": [
+                  446,
+                  186
+            ]
+      },
+      "box7": {
+            "top_left": [
+                  123,
+                  259
+            ],
+            "top_right": [
+                  368,
+                  259
+            ],
+            "bottom_left": [
+                  123,
+                  210
+            ],
+            "bottom_right": [
+                  368,
+                  210
+            ]
+      },
+      "box8": {
+            "top_left": [
+                  490,
+                  258
+            ],
+            "top_right": [
+                  524,
+                  258
+            ],
+            "bottom_left": [
+                  490,
+                  247
+            ],
+            "bottom_right": [
+                  524,
+                  247
+            ]
+      },
+      "box9": {
+            "top_left": [
+                  122,
+                  301
+            ],
+            "top_right": [
+                  413,
+                  301
+            ],
+            "bottom_left": [
+                  122,
+                  268
+            ],
+            "bottom_right": [
+                  413,
+                  268
+            ]
+      },
+      "box10": {
+            "top_left": [
+                  122,
+                  357
+            ],
+            "top_right": [
+                  359,
+                  357
+            ],
+            "bottom_left": [
+                  122,
+                  310
+            ],
+            "bottom_right": [
+                  359,
+                  310
+            ]
+      },
+      "box11": {
+            "top_left": [
+                  490,
+                  357
+            ],
+            "top_right": [
+                  524,
+                  357
+            ],
+            "bottom_left": [
+                  490,
+                  345
+            ],
+            "bottom_right": [
+                  524,
+                  345
+            ]
+      },
+      "box12": {
+            "top_left": [
+                  195,
+                  405
+            ],
+            "top_right": [
+                  417,
+                  405
+            ],
+            "bottom_left": [
+                  195,
+                  374
+            ],
+            "bottom_right": [
+                  417,
+                  374
+            ]
+      },
+      "box13": {
+            "top_left": [
+                  122,
+                  497
+            ],
+            "top_right": [
+                  384,
+                  497
+            ],
+            "bottom_left": [
+                  122,
+                  415
+            ],
+            "bottom_right": [
+                  384,
+                  415
+            ]
+      },
+      "box14": {
+            "top_left": [
+                  490,
+                  498
+            ],
+            "top_right": [
+                  515,
+                  498
+            ],
+            "bottom_left": [
+                  490,
+                  485
+            ],
+            "bottom_right": [
+                  515,
+                  485
+            ]
+      },
+      "box15": {
+            "top_left": [
+                  122,
+                  587
+            ],
+            "top_right": [
+                  328,
+                  587
+            ],
+            "bottom_left": [
+                  122,
+                  507
+            ],
+            "bottom_right": [
+                  328,
+                  507
+            ]
+      },
+      "box16": {
+            "top_left": [
+                  123,
+                  644
+            ],
+            "top_right": [
+                  269,
+                  644
+            ],
+            "bottom_left": [
+                  123,
+                  595
+            ],
+            "bottom_right": [
+                  269,
+                  595
+            ]
+      },
+      "box17": {
+            "top_left": [
+                  302,
+                  670
+            ],
+            "top_right": [
+                  311,
+                  670
+            ],
+            "bottom_left": [
+                  302,
+                  663
+            ],
+            "bottom_right": [
+                  311,
+                  663
+            ]
+      }
+}

@@ -1,0 +1,146 @@
+{
+      "box1": {
+            "top_left": [
+                  490,
+                  464
+            ],
+            "top_right": [
+                  548,
+                  464
+            ],
+            "bottom_left": [
+                  490,
+                  451
+            ],
+            "bottom_right": [
+                  548,
+                  451
+            ]
+      },
+      "box2": {
+            "top_left": [
+                  251,
+                  233
+            ],
+            "top_right": [
+                  361,
+                  233
+            ],
+            "bottom_left": [
+                  251,
+                  189
+            ],
+            "bottom_right": [
+                  361,
+                  189
+            ]
+      },
+      "box3": {
+            "top_left": [
+                  122,
+                  286
+            ],
+            "top_right": [
+                  268,
+                  286
+            ],
+            "bottom_left": [
+                  122,
+                  273
+            ],
+            "bottom_right": [
+                  268,
+                  273
+            ]
+      },
+      "box4": {
+            "top_left": [
+                  149,
+                  363
+            ],
+            "top_right": [
+                  398,
+                  363
+            ],
+            "bottom_left": [
+                  149,
+                  299
+            ],
+            "bottom_right": [
+                  398,
+                  299
+            ]
+      },
+      "box5": {
+            "top_left": [
+                  490,
+                  364
+            ],
+            "top_right": [
+                  515,
+                  364
+            ],
+            "bottom_left": [
+                  490,
+                  351
+            ],
+            "bottom_right": [
+                  515,
+                  351
+            ]
+      },
+      "box6": {
+            "top_left": [
+                  123,
+                  389
+            ],
+            "top_right": [
+                  175,
+                  389
+            ],
+            "bottom_left": [
+                  123,
+                  376
+            ],
+            "bottom_right": [
+                  175,
+                  376
+            ]
+      },
+      "box7": {
+            "top_left": [
+                  149,
+                  463
+            ],
+            "top_right": [
+                  334,
+                  463
+            ],
+            "bottom_left": [
+                  149,
+                  401
+            ],
+            "bottom_right": [
+                  334,
+                  401
+            ]
+      },
+      "box8": {
+            "top_left": [
+                  302,
+                  670
+            ],
+            "top_right": [
+                  311,
+                  670
+            ],
+            "bottom_left": [
+                  302,
+                  663
+            ],
+            "bottom_right": [
+                  311,
+                  663
+            ]
+      }
+}
