@@ -146,10 +146,11 @@ MIT License
 
 ---
 
-## Author
+## 👤 Author
 
-Adish Padalia  
-GitHub: [AdishPadalia26](https://github.com/AdishPadalia26)  
-Email: padaliaadish@gmail.com
+Developed by **Adish Padalia**  
+📧 padaliaadish@gmail.com  
+🌐 [GitHub: AdishPadalia26](https://github.com/AdishPadalia26)  
+🔗 [LinkedIn: adish-padalia-a3768a230](https://www.linkedin.com/in/adish-padalia-a3768a230/)
 
 ---
